@@ -1,2 +1,2 @@
 # project-portfolio
-a portfolio of Aras completed and ongoing projects
+a portfolio of my completed and ongoing projects
