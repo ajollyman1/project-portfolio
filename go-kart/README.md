@@ -22,6 +22,8 @@ I would have preferred a fibreglass battery box, but I didn't have any and it wo
 
 The frame was a disaster. It was badly made to begin with: the bearings kept falling out, and the brakes did not work at all. I had to spend a large amount of time fixing the brake line and brake pad placement, and dealing with the bearing issues.
 
+It also sat completely stanced. Because the kart was lowered that far, you had to wrestle the wheel to turn — turning effectively lifted the cart up and down on its suspension.
+
 ## Riding it
 
 ![](media/first-test-ride.mp4)
