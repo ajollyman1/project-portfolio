@@ -4,20 +4,7 @@ A 72V lithium-ion battery pack (20S10P) built from recycled 18650 cells to power
 
 
 
-## Quick facts
 
-| | |
-|---|---|
-| Nominal voltage | 72V |
-| Layout | 20S10P (20 groups wired end to end, each group made of 10 cells side by side, 200 cells in total) |
-| Motor power | 3kW |
-| Cell type and capacity | TODO |
-| Pack capacity | TODO Ah / TODO Wh |
-| BMS | Bluetooth, TODO model, TODO amp rating |
-| Total cost | TODO NZD |
-| Build time | TODO |
-
-## The problem
 
 The go-kart needs 72V and 3kW, which means a lot of current. Packs that could supply that and last as long as I wanted cost at least $600, and usually around $1000.
 
