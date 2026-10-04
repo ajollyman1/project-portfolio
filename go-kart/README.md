@@ -4,6 +4,8 @@ A converted electric go-kart powered by a 3kW motor and [72V battery pack I buil
 
 ![](media/kart-frame-and-motor.mp4)
 
+![](media/first-test-ride.mp4)
+
 ## Components
 
 - **$50 3kW motor controller kit** from AliExpress
