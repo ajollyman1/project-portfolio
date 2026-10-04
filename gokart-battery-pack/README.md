@@ -49,7 +49,7 @@ To connect it, I soldered a wire to each side of the pack. I kept the iron on fo
 Through Bluetooth I can see the power draw and the voltage of each parallel group, shut the power off remotely, and set a maximum and minimum charge level.
 ## Powering it up for the first time
 
-![](media/first-power-up.mp4)
+[Battery first power-up video](media/first-power-up.mp4)
 
 ## Photos
 
