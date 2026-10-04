@@ -64,6 +64,10 @@ Through Bluetooth I can see the power draw and the voltage of each parallel grou
 - A quick prototype can prove an idea, but sometimes buying a proper $25 tool beats fixing a homemade one.
 - Bluetooth diagnostics on the BMS made a first-time build far easier to debug.
 
+## Powering it up for the first time
+
+![First power-up of the finished pack](media/first-power-up.mp4)
+
 ## Photos
 
 ![Finished pack with BMS and charger wired up](images/finished-pack.jpg)
