@@ -51,6 +51,8 @@ Spot welding joins the cells to the nickel strips without heating them the way s
 
 **Power source:** Welding half the pack was wearing out my car battery, so I bought a larger truck battery from Marketplace to finish the job without affecting the car.
 
+**A close call:** While spot welding, I accidentally dropped a strip of nickel across two groups. It shorted out and went white hot almost instantly. Without thinking, I grabbed it with my bare hands and threw it across the room. It had partially welded itself on, but thankfully it was hot enough that it didn't actually hold and came off. After that I checked the cell voltages — everything seemed fine and healthy — so I continued spot welding. However, I had learned my lesson: I taped over everything I wasn't spot welding to make sure I didn't make the same mistake again. I burned my fingers pretty badly grabbing at that piece.
+
 
 ### Wiring the BMS
 The BMS (battery management system) is the pack's safety controller. It watches the voltage of each group of cells and protects the pack. I bought a Bluetooth BMS from AliExpress for about $40. I paid roughly $10 extra for Bluetooth and it was worth it, since as a beginner I needed it for diagnostics.
