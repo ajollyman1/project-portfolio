@@ -30,7 +30,7 @@ The better idea was to take the packs apart and reuse the cells in a new 72V arr
 ## The build
 
 ### Version 1: taped together
-My first pack was held together with tape. I quickly saw the problems: the cells rubbed against each other, there was no spacing between them, no cooling, and a high fire risk.
+My first pack was held together with tape. the cells rubbed against each other, there was no spacing between them, no cooling, so it would be a very risky batterypack design.
 
 
 ### Version 2: 3D-printed holders
