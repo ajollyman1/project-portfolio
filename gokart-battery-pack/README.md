@@ -2,7 +2,7 @@
 
 A 72V lithium-ion battery pack (20S10P) built from recycled 18650 cells to power a 3kW electric go-kart. Built for roughly **TODO** NZD, compared with $600 to $1000+ for a bought pack that could do the same job. (All prices are in NZD.)
 
-![Finished battery pack](TODO-finished-pack.jpg)
+
 
 ## Quick facts
 
@@ -32,7 +32,6 @@ The better idea was to take the packs apart and reuse the cells in a new 72V arr
 ### Version 1: taped together
 My first pack was held together with tape. I quickly saw the problems: the cells rubbed against each other, there was no spacing between them, no cooling, and a high fire risk.
 
-![Version 1](TODO-version-1.jpg)
 
 ### Version 2: 3D-printed holders
 I redesigned it with 3D-printed 18650 holders that leave air gaps between the cells. This does three things:
@@ -40,7 +39,6 @@ I redesigned it with 3D-printed 18650 holders that leave air gaps between the ce
 - The pack stays much cooler.
 - The cells no longer rub against each other.
 
-![Version 2](TODO-version-2.jpg)
 
 ### Spot welding the connections
 Spot welding joins the cells to the nickel strips without heating them the way soldering would. I didn't want to spend about $100 on a welder for a battery that cost around $250 in total (TODO: check this wording is right).
@@ -53,7 +51,6 @@ Spot welding joins the cells to the nickel strips without heating them the way s
 
 **Power source:** Welding half the pack was wearing out my car battery, so I bought a larger truck battery from Marketplace to finish the job without affecting the car.
 
-![Spot welding in progress](TODO-spot-welding.jpg)
 
 ### Wiring the BMS
 The BMS (battery management system) is the pack's safety controller. It watches the voltage of each group of cells and protects the pack. I bought a Bluetooth BMS from AliExpress for about $40. I paid roughly $10 extra for Bluetooth and it was worth it, since as a beginner I needed it for diagnostics.
@@ -62,7 +59,6 @@ To connect it, I soldered a wire to each side of the pack. I kept the iron on fo
 
 Through Bluetooth I can see the power draw and the voltage of each parallel group, shut the power off remotely, and set a maximum and minimum charge level.
 
-![BMS wiring](TODO-bms.jpg)
 
 ## Safety
 TODO: list the protections the pack has (BMS limits, fuse or breaker, enclosure, anything else).
@@ -74,3 +70,19 @@ TODO: does the kart run, and what are the range, top speed and run time? Date co
 - Spacing and airflow between cells matter, and the taped version showed me why.
 - A quick prototype can prove an idea, but sometimes buying a proper $25 tool beats fixing a homemade one.
 - Bluetooth diagnostics on the BMS made a first-time build far easier to debug.
+
+## Photos
+
+![Finished pack with BMS and charger wired up](images/finished-pack.jpg)
+
+![Workbench with the pack, controller and charger](images/workbench-controller-and-pack.jpg)
+
+![Completed pack from the front, cells in 3D-printed holders wrapped in Kapton tape](images/empty-holders-and-welder.jpg)
+
+![Underside of the pack with the BMS sense wires routed between the cell groups](images/pack-underside-sense-wires.jpg)
+
+![BMS label showing the JK-BD4A20S10P settings](images/bms-label.jpg)
+
+![The wiring harness of the e-bike controller](images/controller-wiring-harness.jpg)
+
+![Spot welder hooked up next to the pack of empty 18650 holders](images/spot-welder-and-holders.jpg)
