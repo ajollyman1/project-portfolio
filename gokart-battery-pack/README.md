@@ -47,12 +47,6 @@ The BMS (battery management system) is the pack's safety controller. It watches 
 To connect it, I soldered a wire to each side of the pack. I kept the iron on for as short a time as possible so the heat wouldn't damage the cells, and put the larger blobs of solder between the cells rather than on top of them. It took a while to work out the wiring, but it worked first time once connected.
 
 Through Bluetooth I can see the power draw and the voltage of each parallel group, shut the power off remotely, and set a maximum and minimum charge level.
-
-## What I learned
-- Spacing and airflow between cells matter, and the taped version showed me why.
-- A quick prototype can prove an idea, but sometimes buying a proper $25 tool beats fixing a homemade one.
-- Bluetooth diagnostics on the BMS made a first-time build far easier to debug.
-
 ## Powering it up for the first time
 
 ![](media/first-power-up.mp4)
