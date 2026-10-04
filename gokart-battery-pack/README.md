@@ -61,6 +61,8 @@ Through Bluetooth I can see the power draw and the voltage of each parallel grou
 
 
 ## Safety
+I added a 100A fuse, which I pulled from my grandad's broken mobility scooter.
+
 TODO: list the protections the pack has (BMS limits, fuse or breaker, enclosure, anything else).
 
 ## Results
