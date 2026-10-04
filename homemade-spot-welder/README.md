@@ -14,4 +14,4 @@ I got the MOSFETs from a broken e-bike motor controller.
 
 I also 3D printed a breadboard-style jig with a bunch of small holes in it. It's the only photo I have of the project:
 
-![](images/homemade-welder-and-test-pack.jpg)
+![](images/homemade-welder.jpg)

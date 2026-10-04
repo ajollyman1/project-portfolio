@@ -25,5 +25,3 @@ The frame was a disaster. It was badly made to begin with: the bearings kept fal
 ## Riding it
 
 ![](media/first-test-ride.mp4)
-
-![](media/prototype-circuit-testing.jpg)
