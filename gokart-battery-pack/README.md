@@ -68,20 +68,20 @@ Through Bluetooth I can see the power draw and the voltage of each parallel grou
 
 ## Powering it up for the first time
 
-![First power-up of the finished pack](media/first-power-up.mp4)
+![](media/first-power-up.mp4)
 
 ## Photos
 
-![Finished pack with BMS and charger wired up](images/finished-pack.jpg)
+![](images/finished-pack.jpg)
 
-![Workbench with the pack, controller and charger](images/workbench-controller-and-pack.jpg)
+![](images/workbench-controller-and-pack.jpg)
 
-![Completed pack from the front, cells in 3D-printed holders wrapped in Kapton tape](images/empty-holders-and-welder.jpg)
+![](images/empty-holders-and-welder.jpg)
 
-![Underside of the pack with the BMS sense wires routed between the cell groups](images/pack-underside-sense-wires.jpg)
+![](images/pack-underside-sense-wires.jpg)
 
-![BMS label showing the JK-BD4A20S10P settings](images/bms-label.jpg)
+![](images/bms-label.jpg)
 
-![The wiring harness of the e-bike controller](images/controller-wiring-harness.jpg)
+![](images/controller-wiring-harness.jpg)
 
-![Spot welder hooked up next to the pack of empty 18650 holders](images/spot-welder-and-holders.jpg)
+![](images/spot-welder-and-holders.jpg)

@@ -2,7 +2,7 @@
 
 A converted electric go-kart powered by a 3kW motor and [72V battery pack I built from recycled 18650 cells](../gokart-battery-pack/README.md). The kart itself was mostly an assembly project — the build, the controller saga, and the frame repairs below.
 
-![The go-kart chassis with motor and controller, before the battery was ready](media/kart-frame-and-motor.mp4)
+![](media/kart-frame-and-motor.mp4)
 
 ## Components
 
@@ -24,6 +24,6 @@ The frame was a disaster. It was badly made to begin with: the bearings kept fal
 
 ## Riding it
 
-![First ride down the driveway](media/first-test-ride.mp4)
+![](media/first-test-ride.mp4)
 
-![Prototype circuit testing](media/prototype-circuit-testing.jpg)
+![](media/prototype-circuit-testing.jpg)
