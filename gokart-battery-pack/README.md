@@ -59,15 +59,6 @@ To connect it, I soldered a wire to each side of the pack. I kept the iron on fo
 
 Through Bluetooth I can see the power draw and the voltage of each parallel group, shut the power off remotely, and set a maximum and minimum charge level.
 
-
-## Safety
-I added a 100A fuse, which I pulled from my grandad's broken mobility scooter.
-
-TODO: list the protections the pack has (BMS limits, fuse or breaker, enclosure, anything else).
-
-## Results
-TODO: does the kart run, and what are the range, top speed and run time? Date completed.
-
 ## What I learned
 - Spacing and airflow between cells matter, and the taped version showed me why.
 - A quick prototype can prove an idea, but sometimes buying a proper $25 tool beats fixing a homemade one.
