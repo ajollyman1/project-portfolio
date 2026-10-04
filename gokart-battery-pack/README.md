@@ -43,7 +43,7 @@ I redesigned it with 3D-printed 18650 holders that leave air gaps between the ce
 ### Spot welding the connections
 Spot welding joins the cells to the nickel strips without heating them the way soldering would. I didn't want to spend about $100 on a welder for a battery that cost around $250 in total (TODO: check this wording is right).
 
-**Homemade welder:** I built one from a car battery and MOSFETs (electronic switches) taken from a broken e-bike controller. It worked, but only barely. The MOSFETs couldn't handle short bursts of very high current, and each one blew out after about three welds. I went through all 4. Full details are in a separate write-up: TODO link.
+**Homemade welder:** I built one from a car battery and MOSFETs (electronic switches) taken from a broken e-bike controller. It worked, but only barely. The MOSFETs couldn't handle short bursts of very high current, and each one blew out after about three welds. I went through all 4. Full details are in a [separate write-up](../homemade-spot-welder/README.md).
 
 **Bought welder:** Since the idea worked in principle, I looked for a properly built version and found one from China for about $25. It worked perfectly.
 
