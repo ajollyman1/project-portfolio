@@ -12,4 +12,6 @@ That was enough to weld two very thin nickel strips together. Unfortunately, it 
 
 I got the MOSFETs from a broken e-bike motor controller.
 
-I also 3D printed a breadboard-style jig with a bunch of small holes in it. It's the only photo I have of the project: TODO add photo.
+I also 3D printed a breadboard-style jig with a bunch of small holes in it. It's the only photo I have of the project:
+
+![My homemade spot welder and the pack of 3D-printed cell holders](images/homemade-welder-and-test-pack.jpg)
