@@ -25,3 +25,5 @@ A grab-bag of things I've built — some software, some hardware. The software h
 **[`go-kart`](go-kart/README.md)** — a converted 3kW electric go-kart: the controller saga, a wooden battery box, and a lot of frame repair.
 
 **[`first-ebike`](first-ebike/README.md)** — my first electrical/mechanical build: a 36V/500W mid-drive e-bike conversion.
+
+**[`lfr`](lfr/README.md)** — a line-following robot for a UC mechatronics course: I designed the ATmega4808 microcontroller PCB, and our team placed second in the race.
