@@ -4,9 +4,9 @@ A grab-bag of things I've built — some software, some hardware. The software h
 
 ## Software, AI & self-hosting
 
-**[`homelab`](homelab/README.md)** — the Linux server everything below runs on: local LLM/speech models, Docker Compose, Caddy, Tailscale, KVM. Best starting point.
+**[`homelab`](homelab/README.md)** — the Linux server everything below runs on: local LLM/speech models, Docker Compose, Caddy, netbird, KVM, and a full Jellyfin/`*arr` media stack. Best starting point.
 
-**[`phone-mcp`](phone-mcp/README.md)** — let an AI agent drive my Android phone (tap, swipe, type, read the screen) over ADB, exposed as an MCP tool. Safety-first: no shell, a kill switch, loopback only.
+**[`phone-mcp`](phone-mcp/README.md)** — let an AI agent drive my Android phone (tap, swipe, type, read the screen) over ADB, exposed as an MCP tool. Safety-first: no shell, a kill switch, loopback only. *Ongoing.*
 
 **[`voiceapi`](voiceapi/README.md)** — an OpenAI-compatible speech API (STT + TTS) backed entirely by local models.
 
@@ -14,7 +14,7 @@ A grab-bag of things I've built — some software, some hardware. The software h
 
 **[`opencode-oai-shim`](opencode-oai-shim/README.md)** — a dependency-free OpenAI-compatible facade that lets any chat client reach models only `opencode` can.
 
-**[`phone-ui`](phone-ui/README.md)** — an installable PWA front-end for phone-mcp, with the kill switch one tap away.
+**[`phone-ui`](phone-ui/README.md)** — an installable PWA front-end for phone-mcp, with the kill switch one tap away. *Ongoing.*
 
 ## Hardware
 

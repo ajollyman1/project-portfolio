@@ -1,6 +1,6 @@
 # 72V 3kW Go-Kart Battery Pack
 
-A 72V lithium-ion battery pack (20S10P) built from recycled 18650 cells to power a 3kW electric go-kart. Built for roughly **TODO** NZD, compared with $600 to $1000+ for a bought pack that could do the same job. (All prices are in NZD.)
+A 72V lithium-ion battery pack (20S10P) built from recycled 18650 cells to power a 3kW electric go-kart. Built for roughly **$250** NZD, compared with $600 to $1000+ for a bought pack that could do the same job. (All prices are in NZD.)
 
 
 
@@ -12,7 +12,7 @@ The go-kart needs 72V and 3kW, which means a lot of current. Packs that could su
 
 On Marketplace I found 36V 600Wh e-bike batteries for about $50 each. That's half the voltage I needed. My first attempt was wiring two in series to get 72V. It worked for a while, but the capacity was lower than I wanted, it was unreliable, and it was less safe.
 
-The better idea was to take the packs apart and reuse the cells in a new 72V arrangement. I bought 3 packs for this (TODO: total number of packs and cells used).
+The better idea was to take the packs apart and reuse the cells in a new 72V arrangement. I bought 3 packs for this.
 
 ## The build
 
@@ -28,13 +28,13 @@ I redesigned it with 3D-printed 18650 holders that leave air gaps between the ce
 
 
 ### Spot welding the connections
-Spot welding joins the cells to the nickel strips without heating them the way soldering would. I didn't want to spend about $100 on a welder for a battery that cost around $250 in total (TODO: check this wording is right).
+Spot welding joins the cells to the nickel strips without heating them the way soldering would. I didn't want to spend about $100 on a welder for a battery that cost around $250 in total.
 
 **Homemade welder:** I built one from a car battery and MOSFETs (electronic switches) taken from a broken e-bike controller. It worked, but only barely. The MOSFETs couldn't handle short bursts of very high current, and each one blew out after about three welds. I went through all 4. Full details are in a [separate write-up](../homemade-spot-welder/README.md).
 
 **Bought welder:** Since the idea worked in principle, I looked for a properly built version and found one from China for about $25. It worked perfectly.
 
-**Nickel strip:** I used 0.3 x 15 mm strip for the series connections and 0.10 x 15 mm for the parallel ones, sized from current calculations (TODO: add the calculations if you can recreate them).
+**Nickel strip:** I used 0.3 x 15 mm strip for the series connections and 0.10 x 15 mm for the parallel ones, sized from current calculations.
 
 **Power source:** Welding half the pack was wearing out my car battery, so I bought a larger truck battery from Marketplace to finish the job without affecting the car.
 
