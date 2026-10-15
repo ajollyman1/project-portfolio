@@ -26,7 +26,7 @@ The biggest continuous project. It's a single Docker Compose stack (`/opt/medias
 - **metube** — self-hosted YouTube/audio downloader, pointed at the same VPN HTTP proxy (its downloads land in the library for Jellyfin to pick up).
 - **Samba** — shares the library out to the LAN.
 
-Downloads land in `/mnt/bigstorage/data/torrents` (~84 GB live) before they're imported. The rest of the box: a few **KVM/libvirt** VMs (~290 GB of virtual disks on the same drive), and everything above is held together with Docker Compose stacks and **systemd** user services so a reboot brings it all back without me babysitting it.
+Downloads land in `/mnt/bigstorage/data/torrents` (~84 GB live) before they're imported. The rest of the box: a **Windows VM** (KVM/libvirt, ~290 GB of virtual disks) that runs on the same 1.8 TB drive and gets first claim on the GPU. I run it for university work that needs Windows — SolidWorks and friends — because my laptop runs Linux. It doubles as my games machine: the VM is streamed to the laptop with **Sunshine + Moonlight**, so games run on the server and play on the Linux laptop over the network. That VM-first GPU arrangement is also why the llama.cpp server steps aside when the VM is awake. Everything above is held together with Docker Compose stacks and **systemd** user services, so a reboot brings it all back without me babysitting it.
 
 ## Ops & remote access
 
