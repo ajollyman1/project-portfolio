@@ -10,6 +10,6 @@ The project covered PCB design, mechanical build, programming the line-sensing �
 
 - [`LFR.kicad_pcb`](LFR.kicad_pcb) — the microcontroller PCB, laid out in KiCad 10 (2-layer, 1.6 mm)
 - [`report.pdf`](report.pdf) — full project report write-up (design, code, performance, reflection)
-- [`media/lfr-robot.mp4`](media/lfr-robot.mp4) — the robot on track
+- [`media/lfr-robot.mp4`](media/lfr-robot.mp4) — a video of the robot
 
 <video src="media/lfr-robot.mp4" controls muted width="100%"></video>
