@@ -1,6 +1,6 @@
 # Self-hosted homelab
 
-Linux box at home replacing ~a dozen subscriptions: local AI models, phone/calendar agent tools, media server.
+Linux box at home replacing ~a dozen subscriptions: local AI models, phone/calendar agent tools, media server. Jarvis-style personal assistant running entirely on my own hardware.
 
 ## Local AI
 

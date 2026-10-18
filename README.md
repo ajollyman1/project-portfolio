@@ -1,6 +1,6 @@
 # Project Portfolio
 
-Things I've built — software (self-hosted homelab + agent tooling) and hardware (e-kart / e-bike / battery).
+Things I've built — software (self-hosted homelab + agent tooling, incl. a Jarvis-style local AI assistant) and hardware (e-kart / e-bike / battery).
 
 ## Software, AI & self-hosting
 
