@@ -5,11 +5,10 @@ Things I've built — software (self-hosted homelab + agent tooling) and hardwar
 ## Software, AI & self-hosting
 
 - **[homelab](homelab/README.md)** — Linux server: local LLMs/speech, Docker Compose, Caddy, netbird, KVM, Jellyfin/*arr media stack.
-- **[phone-mcp](phone-mcp/README.md)** — LLM agent drives an Android phone over ADB (MCP). No shell, kill switch, loopback-only. Ongoing.
+- **[phone-mcp](phone-mcp/README.md)** — LLM agent drives an Android phone over ADB (MCP). No shell, kill switch, loopback-only. Includes phone-ui PWA front-end. Ongoing.
 - **[voiceapi](voiceapi/README.md)** — OpenAI-compatible STT+TTS API, all local models.
 - **[calendar-mcp](calendar-mcp/README.md)** — CalDAV calendar as MCP tool with write-verification.
 - **[opencode-oai-shim](opencode-oai-shim/README.md)** — OpenAI-compatible facade for opencode-only models.
-- **[phone-ui](phone-ui/README.md)** — PWA front-end for phone-mcp. Ongoing.
 
 ## Hardware
 
