@@ -4,7 +4,7 @@ A line-following robot (LFR) built for **ENMT221 Mechatronics Design 1** at the 
 
 **Our team placed second.**
 
-The project covered PCB design, mechanical build, programming the line-sensing → motor control loop, testing and refinement, and the race. The PCB in this folder is my submission.
+The project covered PCB design, mechanical build, programming the line-sensing → motor control loop, testing and refinement, and the race.
 
 ## Files
 
