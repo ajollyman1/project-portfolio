@@ -6,6 +6,10 @@ A line-following robot (LFR) built for **ENMT221 Mechatronics Design 1** at the 
 
 The project covered PCB design, mechanical build, programming the line-sensing → motor control loop, testing and refinement, and the race.
 
+## Photos
+
+![](images/robot.jpg)
+
 ## Files
 
 - [`LFR.kicad_pcb`](LFR.kicad_pcb) — the microcontroller PCB, laid out in KiCad 10 (2-layer, 1.6 mm)
