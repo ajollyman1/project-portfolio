@@ -4,7 +4,7 @@ A line-following robot (LFR) built for **ENMT221 Mechatronics Design 1** at the 
 
 **Our team placed second.**
 
-I was responsible for the microcontroller section of the team's PCB — designed in KiCad (schematic, layout, Gerber/drill files) and integrated into the combined board. The team then built the robot, programmed the line-sensing → motor control loop, tested and refined it, and raced.
+The project covered PCB design, mechanical build, programming the line-sensing → motor control loop, testing and refinement, and the race. The PCB in this folder is my submission.
 
 ## Files
 
