@@ -1,4 +1,4 @@
-# Line-Following Robot
+# Line-Following Robot Competition
 
 A line-following robot (LFR) built for **ENMT221 Mechatronics Design 1** at the University of Canterbury (Semester 2, 2026). The course runs a robot design project where every student designs a section of a line-follower individually, the team combines the best concepts into one PCB and mechanical design, and then the robots race against each other.
 
